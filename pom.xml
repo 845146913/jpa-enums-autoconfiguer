@@ -13,7 +13,7 @@
 
     <groupId>com.silencew.plugins</groupId>
     <artifactId>silencew-enums-spring-boot-autoconfiguer</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <repositories>
         <repository>
@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.silencew.plugins</groupId>
             <artifactId>jpa-enums-plugin</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
         </dependency>
         <!-- Compile dependencies -->
         <dependency>
